@@ -16,7 +16,7 @@
   * **1060-1090** Sounds
     * **1060** Low buzz = failure
     * **1080** High beep = success
-* **mlx2.d64** Entered and tested on [VICE emulator](https://vice-emu.sourceforge.io/)
+* **mlx2.d64** Typed in and tested on [VICE emulator](https://vice-emu.sourceforge.io/)
   * Mount disk image
   * LOAD"MLX2",8
   * RUN
