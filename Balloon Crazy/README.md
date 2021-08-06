@@ -5,4 +5,6 @@
   * **MLX II code.txt**: as seen in the magazine, with addresses and checksums
   * **Hex only.txt**: program code without addresses or checksums
   * **ballooncrazy.prg**: Commodore 64 .PRG format
-* Tested on VICE emulator
+    * LOAD"BALLOONCRAZY.PRG",8,1
+    * SYS 49152
+* Tested on [VICE emulator](https://vice-emu.sourceforge.io/)
