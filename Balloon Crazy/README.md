@@ -3,7 +3,7 @@
 * Range: C000-C81F
 * Corrected OCR code saved in several formats:
   * **MLX II code.txt**: as seen in the magazine, with addresses and checksums
-  * **Hex only.txt**: program code without addresses or checksums
+  * **Hex bytes only.txt**: program code without addresses or checksums
   * **ballooncrazy.prg**: Commodore 64 .PRG format
     * LOAD"BALLOONCRAZY.PRG",8,1
     * SYS 49152
