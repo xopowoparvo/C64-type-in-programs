@@ -1,4 +1,4 @@
-**High Rise** game code from [Compute! magazine - February 1986](https://archive.org/details/1986-02-compute-magazine/page/n50/).
+**High Rise** game code from [Compute! magazine - February 1986](https://archive.org/details/1986-02-compute-magazine/page/n50/), by Charled McGuyer.
 * MLX II hex format: address + 8 bytes + checksum
 * Range: C000-CE7F
 * Corrected OCR code saved in several formats:
