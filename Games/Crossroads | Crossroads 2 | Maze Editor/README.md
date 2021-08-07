@@ -15,5 +15,10 @@ All 3 programs share these characteristics:
     * RUN
 
 ### Crossroads 2
+**Crossroads 2** game code from [Compute!'s Gazette magazine - December 1988](https://archive.org/details/1988-12-computegazette/page/n40/), by Steve Harter.
+* Range: 0801-21C0
+* Load instructions
+  * LOAD"CROSSROADS2.PRG",8
+  * RUN
 
 ### Maze Editor for Crossroads 2
