@@ -2,8 +2,8 @@
 * MLX 2 hex format: address + 8 bytes + checksum
 * Range: C000-CE7F
 * Corrected OCR code saved in several formats:
-  * **MLX 2 code.txt**: as seen in the magazine, with addresses and checksums
-  * **Hex bytes only.txt**: program code without addresses or checksums
+  * **High Rise - MLX 2 code.txt**: as seen in the magazine, with addresses and checksums
+  * **High Rise - hex bytes only.txt**: program code without addresses or checksums
   * **highrise.prg**: Commodore 64 .PRG format
     * LOAD"HIGHRISE.PRG",8,1
     * SYS 49152
