@@ -22,3 +22,11 @@ All 3 programs share these characteristics:
   * RUN
 
 ### Maze Editor for Crossroads 2
+**Crossroads 2 - Maze Editor** program code from [Compute!'s Gazette magazine - December 1988](https://archive.org/details/1988-12-computegazette/page/n40/), by Steve Harter.
+* Range: C800-CDC7
+* Load instructions
+  * LOAD"MAZEEDITOR.PRG",8,1
+  * NEW
+  * SYS 51200
+  * LOAD"CROSSROADS2.PRG",8
+  * RUN
