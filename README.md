@@ -6,7 +6,7 @@ Collection of Commodore 64 (C64) type-in code as found in magazines like Compute
 * Corrected OCR is used in several ways:
   * Orginal version for reference and output variants
   * Hex bytes only version for [disassembly](https://www.masswerk.at/6502/disassembler.html) or conversion to valid .PRG via [C64List](https://www.c64-wiki.com/wiki/C64list)
-* Tested on [VICE emulator](https://vice-emu.sourceforge.io/)
-  * Load .PRG directly in IEC mode; could also use it from a .D64 file
-    * .PRG extension can be deleted from filename
 * Each program folder contains source and final files with load instructions
+  * Load .PRG directly in IEC mode; can also wrap it in a .D64 file
+    * .PRG extension can be deleted from filename
+  * Tested on [VICE emulator](https://vice-emu.sourceforge.io/)
