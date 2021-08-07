@@ -9,3 +9,4 @@ Collection of Commodore 64 (C64) type-in code as found in magazines like Compute
 * Tested on [VICE emulator](https://vice-emu.sourceforge.io/)
   * Load .PRG directly in IEC mode; could also use it from a .D64 file
     * .PRG extension can be deleted from filename
+* Each program folder contains source and final files with load instructions
