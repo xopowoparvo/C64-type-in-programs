@@ -1,4 +1,4 @@
-**MLX II** program code from [Compute! magazine - December 1985](https://archive.org/details/1985-12-compute-magazine/page/n75/).
+**MLX II** program code from [Compute! magazine - December 1985](https://archive.org/details/1985-12-compute-magazine/page/n75/), by Ottis R. Cowper.
 * Used to enter code in MLX II hex format: address + 8 bytes + checksum
 * Code map:
   * **100-150** Initialize variables, clear SID, clear screen
