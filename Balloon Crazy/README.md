@@ -1,4 +1,4 @@
-**Balloon Crazy** game code from [Compute! magazine - December 1985](https://archive.org/details/1985-12-compute-magazine/page/n43/).
+**Balloon Crazy** game code from [Compute! magazine - December 1985](https://archive.org/details/1985-12-compute-magazine/page/n43/), by Joseph Russ.
 * MLX II hex format: address + 8 bytes + checksum
 * Range: C000-C81F
 * Corrected OCR code saved in several formats:
