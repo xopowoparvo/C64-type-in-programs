@@ -1,4 +1,4 @@
-**SpeedScript Integrator** program code from [Compute! magazine - January 1986](https://archive.org/details/1986-01-compute-magazine/page/n67/).
+**SpeedScript Integrator** program code from [Compute! magazine - January 1986](https://archive.org/details/1986-01-compute-magazine/page/n67/), by Kevin Martin.
 * MLX II hex format: address + 8 bytes + checksum
 * Range: 0801-0948
 * Corrected OCR code saved in several formats:
