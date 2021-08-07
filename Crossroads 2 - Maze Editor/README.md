@@ -8,6 +8,6 @@
     * LOAD"MAZEEDITOR.PRG",8,1
     * NEW
     * SYS 51200
-    * LOAD"CROSSROADS2",8
+    * LOAD"CROSSROADS2.PRG",8
     * RUN
 * Tested on [VICE emulator](https://vice-emu.sourceforge.io/)
