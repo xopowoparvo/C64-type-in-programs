@@ -10,21 +10,21 @@ All 3 programs share these characteristics:
 ### Crossroads
 **Crossroads** game code from [Compute!'s Gazette magazine - December 1987](https://archive.org/details/1987-12-computegazette/page/n37/), by Steve Harter.
 * Range: 0801-1F30
-* Load instructions
+* Load instructions:
     * LOAD"CROSSROADS.PRG",8
     * RUN
 
 ### Crossroads 2
 **Crossroads 2** game code from [Compute!'s Gazette magazine - December 1988](https://archive.org/details/1988-12-computegazette/page/n40/), by Steve Harter.
 * Range: 0801-21C0
-* Load instructions
+* Load instructions:
   * LOAD"CROSSROADS2.PRG",8
   * RUN
 
 ### Maze Editor for Crossroads 2
 **Crossroads 2 - Maze Editor** program code from [Compute!'s Gazette magazine - December 1988](https://archive.org/details/1988-12-computegazette/page/n40/), by Steve Harter.
 * Range: C800-CDC7
-* Load instructions
+* Load instructions:
   * LOAD"MAZEEDITOR.PRG",8,1
   * NEW
   * SYS 51200
