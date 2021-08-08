@@ -8,12 +8,14 @@
 * Tested on [VICE emulator](https://vice-emu.sourceforge.io/)
 
 ### SpeedCalc
+* Spreadsheet program
 * Range: 0801-2680
 * Load instructions:
   * LOAD"SPEEDCALC.PRG",8
   * RUN
 
 ### SpeedScript Integrator
+* Convert SpeedCalc spreadsheet to importable SpeedScript file for print formatting
 * Range: 0801-0948
 * Load instructions:
    * LOAD"INTEGRATOR.PRG",8
