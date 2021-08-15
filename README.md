@@ -1,5 +1,5 @@
 Collection of Commodore 64 (C64) type-in code as found in magazines like Compute! and Compute!'s Gazette.
-* Focus here is on **MLX 2** code from December 1985 onwards, and **Automatic Proofreader 2** code from March 1986 onwards
+* Focus here is on **MLX 2** code from December 1985 onwards, and **Automatic Proofreader 2** BASIC code from March 1986 onwards
   * MLX 2 hex format: address + 8 bytes + checksum
   * Automatic Proofreader 2 format: checkum + BASIC line
 * First-pass OCR has many misread characters that need correction
