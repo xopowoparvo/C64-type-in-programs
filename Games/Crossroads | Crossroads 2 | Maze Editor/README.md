@@ -30,3 +30,9 @@ All 3 programs share these characteristics:
   * SYS 51200
   * LOAD"CROSSROADS2.PRG",8
   * RUN
+
+### Relevant links
+* **Crossroads | Crossroads 2**: [*interview with steve harter, creator of crossroads and crossroads ii*](https://kirk.is/2006/04/13/) - April 13, 2006, by Kirk Israel.
+* **Crossroads** review: [*Compute!'s Gazette: Part 5*](https://lparchive.org/Computes-Gazette/Update%2005/) - March 2016, by Chokes McGee.
+* **Crossroads 2** review: [*Compute!'s Gazette: Part 12*](https://lparchive.org/Computes-Gazette/Update%2012/) - March 2016, by ManxomeBromide.
+* **Crossroads 2** disassembly: [*GitHub repository*](https://github.com/hyphz/crossroads-2-disassembly) - May 2019, by hyphz.
