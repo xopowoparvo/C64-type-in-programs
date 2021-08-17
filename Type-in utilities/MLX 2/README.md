@@ -1,4 +1,4 @@
-**MLX 2** program code from [Compute! magazine - December 1985](https://archive.org/details/1985-12-compute-magazine/page/n75/), by Ottis R. Cowper.
+**MLX 2** program code from [Compute!'s Gazette magazine - June 1990](https://archive.org/details/1990-06-computegazette/page/n58/), by Ottis R. Cowper.
 * Used to enter code in MLX 2 hex format: address + 8 bytes + checksum
 * Code map:
   * **100-150** Initialize variables, clear SID, clear screen
@@ -16,7 +16,6 @@
   * **1060-1090** Sounds
     * **1060** Low buzz = failure
     * **1080** High beep = success
-* **mlx2.d64** Typed in and tested on [VICE emulator](https://vice-emu.sourceforge.io/)
-  * Mount disk image
-  * LOAD"MLX2",8
+* Tested on [VICE emulator](https://vice-emu.sourceforge.io/)
+  * LOAD"MLX2.PRG",8
   * RUN
