@@ -19,7 +19,7 @@
 * Tested on [VICE emulator](https://vice-emu.sourceforge.io/)
   * LOAD"MLX2.PRG",8
   * RUN
-* Relevant articles
+* Relevant links
   * [*Compute!'s Gazette*](https://lparchive.org/Computes-Gazette/) - March 1, 2016, by Chokes McGee.
   * [*How Did Compute!’s Gazette’s MLX Program Work?*](https://nebusresearch.wordpress.com/2021/01/13/how-did-computes-gazettes-mlx-program-work/) - January 13, 2021, by Joseph Nebus.
   * [*How did Compute!’s and Compute!’s Gazette’s New MLX Work?*](https://nebusresearch.wordpress.com/2021/06/16/how-did-computes-and-computes-gazettes-new-mlx-work/) - June 16, 2021, by Joseph Nebus.
