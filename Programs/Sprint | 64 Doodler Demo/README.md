@@ -15,5 +15,6 @@
     * SYS 32768
 
 ### 64 Doodler Demo
-LOAD"64DOODLER.PRG",8
-RUN
+* BASIC format: program code without checksums
+  * LOAD"64DOODLER.PRG",8
+  * RUN
