@@ -1,6 +1,7 @@
 ## General Info
 **Sprint** and **64 Doodler Demo** program code from [Compute!'s Gazette magazine - January 1986](https://archive.org/details/1986-01-computegazette/page/n73/), by Robert A. Stoerrle.
-* **Sprint** is a utility to compile BASIC programs for faster execution; **64 Doodler Demo** is a simple draw program that is very slow in BASIC and much faster after being compiled by **Sprint**
+* **Sprint** is a utility to compile BASIC programs for faster execution
+* **64 Doodler Demo** is a simple drawing program that runs very slow in BASIC and much faster after being compiled by **Sprint**
 * Tested on [VICE emulator](https://vice-emu.sourceforge.io/)
 
 ### Sprint
